@@ -6,7 +6,6 @@
     "name": "Chromatic",
     "email": "https://chromatic.com/"
   },
-  "type": "commonjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chromaui/intro-storybook-react-template.git"
